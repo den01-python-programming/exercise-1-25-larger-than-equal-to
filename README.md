@@ -1,15 +1,29 @@
-# Exercise 1.24 - Adulthood
+# Exercise 1.25 - Larger Than or Equal To
 
-Write a program that prompts the user for their age and tells them whether or not they are an adult (18 years old or older).
+Write a program that prompts the user for two integers and prints the larger of the two. If the numbers are the same, then the program informs us about this as well.
+
+Sample outputs:
 
 ```plaintext
-How old are you?
-12
-You are not an adult
+Give the first number:
+*5*
+Give the second number:
+*3*
+Greater number is: 5
 ```
 
 ```plaintext
-How old are you?
-22
-You are an adult
+Give the first number:
+*5*
+Give the second number:
+*8*
+Greater number is: 8
+```
+
+```plaintext
+Give the first number: 
+*5*
+Give the second number: 
+*5*
+The numbers are equal!
 ```
